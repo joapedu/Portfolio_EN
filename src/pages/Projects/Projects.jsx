@@ -20,17 +20,14 @@ function Projects() {
 
   return (
     <ContainerGeral id="projects">
-      <h1>Projetos</h1>
+      <h1>Projects</h1>
       <Container>
         {proj.map((item) => {
           return (
             <Card key={item.id}>
               <h3>{item.name}</h3>
               <a href={item.clone_url} target="_blank">
-                Link do Projeto
-              </a>
-              <a href={`https://${item.homepage}`} target="_blank">
-                Live Server
+                Project Link
               </a>
             </Card>
           );

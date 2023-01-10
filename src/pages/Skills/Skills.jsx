@@ -38,7 +38,7 @@ function Skills() {
 
   return (
     <Main position={position} id="skills">
-      <h1>Minhas Habilidades</h1>
+      <h1>My Skills</h1>
 
       <Cont>
         <h4>Hard Skills</h4>
@@ -74,32 +74,32 @@ function Skills() {
         <Container>
           <SkillsList>
             <HiLightBulb className="skillLight" />
-            <h6 style={{ fontSize: "1.2rem", color: "white" }}>Criatividade</h6>
+            <h6 style={{ fontSize: "1.2rem", color: "white" }}>Creativity</h6>
           </SkillsList>
 
           <SkillsList>
             <GiPuzzle className="skillPuzzle" />
-            <h6 style={{ color: "white" }}>Resolução de Problemas</h6>
+            <h6 style={{ color: "white" }}>Problem Solving</h6>
           </SkillsList>
 
           <SkillsList>
             <GiTalk className="skillTalk" />
-            <h6 style={{ fontSize: "1.2rem", color: "white" }}>Comunicação</h6>
+            <h6 style={{ fontSize: "1.2rem", color: "white" }}>Communication</h6>
           </SkillsList>
 
           <SkillsList>
             <FaHandsHelping className="skillHelping" />
-            <h6 style={{ fontSize: "1.2rem", color: "white" }}>Colaboração</h6>
+            <h6 style={{ fontSize: "1.2rem", color: "white" }}>Collaboration</h6>
           </SkillsList>
 
           <SkillsList>
             <IoMdClock className="skillClock" />
-            <h6 style={{ fontSize: "1.2rem", color: "white" }}>Pontualidade</h6>
+            <h6 style={{ fontSize: "1.2rem", color: "white" }}>Punctuality</h6>
           </SkillsList>
 
           <SkillsList>
             <BsLightningFill className="skillLight" />
-            <h6 style={{ fontSize: "1.2rem", color: "white" }}>Proatividade</h6>
+            <h6 style={{ fontSize: "1.2rem", color: "white" }}>Proactivity</h6>
           </SkillsList>
         </Container>
       </Cont>

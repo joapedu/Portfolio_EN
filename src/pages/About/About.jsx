@@ -37,26 +37,17 @@ function About() {
           <img src={person} />
         </ImgContainer>
         <Aboutus>
-          <h1>Sobre mim</h1>
+          <h1>About Me</h1>
           <p>
-            &nbsp;&nbsp;&nbsp;Olá, meu nome é João Eduardo e sou desenvolvedor web
-            Full Stack. Tenho experiência em <span> Django</span>,
-            <span> Node.js</span>,<span> Angular</span>,<span> CSS</span>,
-            <span> React</span>,<span> Flask</span> e
-            também em Devops, <span> Docker</span>,<span> Kubernetes</span>, <span>Zabbix</span> e<span> CI/CD</span>
-            .
+            &nbsp;&nbsp;&nbsp;Hello!, my name is João Eduardo and I'm a Full Stack web developer. 
+            I have experience in <span>Django</span>,<span> Node.js</span>,<span> Angular</span>,<span> CSS</span>,<span> React</span>,<span> Flask</span> 
+            and also in Devops, where I've worked with<span> Docker</span>,<span> Kubernetes</span>,<span> Zabbix</span> and<span> CI/CD</span>.
             <br />
             <br />
-            &nbsp;&nbsp;&nbsp; Gosto de aprender coisas novas, e sempre que
-            posso aproveito para me manter atualizado sobre as últimas
-            tendências e tecnologias no mercado de desenvolvimento web.
+            &nbsp;&nbsp;&nbsp; I like to <span>learn new things</span>, and whenever I can I take the opportunity to <span> keep myself updated</span> on the latest trends and technologies in the <span> web development market</span>.
             <br />
             <br />
-            &nbsp;&nbsp;&nbsp; Também sou <span> proativo</span> e gosto de
-            trabalhar em equipe, pois acredito que todos podem aprender uns com
-            os outros. Acredito também que a <span> comunicação</span> é a chave
-            do sucesso para qualquer projeto, desenvolvendo e trabalhando em
-            conjunto, pois somos mais fortes juntos.
+            &nbsp;&nbsp;&nbsp; I am also <span>proactive</span> and enjoy working in a team, as I believe that everyone can learn from each other. I also believe that <span> communication</span> is the key to the success of any project, developing and working together, because <span> together we are stronger</span>.
           </p>
         </Aboutus>
       </InfosC>

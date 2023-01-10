@@ -10,7 +10,7 @@ function Home() {
     <>
       <HomeContainer id="home">
         <Texts>
-            Hello, I am
+            <h2>Hello, I am</h2>
 
           <h1>João Eduardo Braga</h1>
 

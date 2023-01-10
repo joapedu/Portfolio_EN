@@ -13,11 +13,11 @@ function App() {
     <>
       <GlobalStyle />
       <Header
-        home={`Pagina Inicial`}
-        about={`Sobre mim`}
-        skils={`Habilidades`}
-        project={`Projetos`}
-        contact={`Contato`}
+        home={`Home Page`}
+        about={`About Me`}
+        skils={`Skills`}
+        project={`Projects`}
+        contact={`Contact Form`}
       />
       <Home />
       <About />

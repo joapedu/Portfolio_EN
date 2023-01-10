@@ -10,7 +10,7 @@ function ContactForm() {
   return (
     <CForm id="contact">
       <h1 style={{ textAlign: "center", color: "white", padding: "1rem" }}>
-        Fale Comigo
+        Talk to Me
       </h1>
       <form
         style={{
@@ -29,13 +29,13 @@ function ContactForm() {
           }}
           htmlFor="name"
         >
-          Nome
+          Name
         </label>
         <input
           id="namel"
           type="name"
           name="name"
-          placeholder="Digite seu nome"
+          placeholder="Type your name"
           style={{
             padding: ".6rem",
             marginBottom: "1.4rem",
@@ -60,7 +60,7 @@ function ContactForm() {
           id="email"
           type="email"
           name="email"
-          placeholder="Digite seu email"
+          placeholder="Type your email"
           style={{
             padding: ".6rem",
             marginBottom: "1.4rem",
@@ -79,7 +79,7 @@ function ContactForm() {
             marginBottom: ".4rem",
           }}
         >
-          Mensagem
+          Message
         </label>
         <textarea
           id="message"
@@ -92,7 +92,7 @@ function ContactForm() {
             color: "#000",
             fontSize: ".9rem",
           }}
-          placeholder="Deixe sua mensagem"
+          placeholder="Leave your message"
         />
         <ValidationError
           prefix="Message"
@@ -114,7 +114,7 @@ function ContactForm() {
           }}
           disabled={state.submitting}
         >
-          Enviar
+          Send
         </button>
       </form>
     </CForm>
