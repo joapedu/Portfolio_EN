@@ -40,7 +40,7 @@ function About() {
           <h1>About Me</h1>
           <p>
             &nbsp;&nbsp;&nbsp;Hello!, my name is João Eduardo and I'm a Full Stack web developer. 
-            I have experience in <span>Django</span>,<span> Node.js</span>,<span> Angular</span>,<span> CSS</span>,<span> React</span>,<span> Flask</span> 
+            I have experience in <span>Django</span>,<span> Node.js</span>,<span> Angular</span>,<span> CSS</span>,<span> React</span>,<span> Flask </span> 
             and also in Devops, where I've worked with<span> Docker</span>,<span> Kubernetes</span>,<span> Zabbix</span> and<span> CI/CD</span>.
             <br />
             <br />
